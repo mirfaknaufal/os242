@@ -3,5 +3,5 @@
 # LogCode: https://doit.vlsm.org/ETC/logCodes.txt
 
 ZCZC W00 20 L01 SCELE/Discord related
-ZCZC W00 100 L02 CLASSROOM/ZOOM meetings related
+ZCZC W00 200 L02 CLASSROOM/ZOOM meetings related
 ZCZC W00 20 L03 Github related
