@@ -13,7 +13,7 @@ permalink: LINKS/
 * [Is the C programming language still worth learning?](https://www.youtube.com/watch?v=ikEUuttGDOI){:target="_blank"} ---
   A 9-minutes long video talks about the relevance of C. The video explains that C still has a lot of uses although there are new languages that are easier to use.
 * [60 Linux Commands you NEED to know (in 10 minutes)](https://www.youtube.com/watch?v=gd7BXuUQ91w){:target="_blank"} ---
-  A 10-minutes long video about linux commands. Helps me know more basic command to do weekly assignmets.
+  A 10-minutes long video about linux commands. Helps me know more commands to do weekly assignmets.
 <br>
 <br>
 
